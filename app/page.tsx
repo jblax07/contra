@@ -26,7 +26,7 @@ export default function Home() {
           <div className='absolute inset-x-0 bottom-0 h-32 bg-gradient-to-t from-black to-transparent' />
 
           {/* Scroll Indicator */}
-          <div className='absolute bottom-[100px] left-1/2 transform -translate-x-1/2 animate-bounce'>
+          <div className='absolute bottom-[50px] left-1/2 transform -translate-x-1/2 animate-bounce'>
             <svg
               xmlns='http://www.w3.org/2000/svg'
               className='h-6 w-6 text-white opacity-75'
